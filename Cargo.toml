@@ -1,5 +1,5 @@
 [package]
-name = "clip"
+name = "cclip"
 version = "0.1.0"
 description = "A simple, cross-platform CLI clipboard tool."
 authors = ["watcol <potfman@gmail.com>"]
@@ -21,3 +21,7 @@ atty = "0.2"
 copypasta = "0.7"
 copypasta-ext = "0.3"
 which = "4.0"
+
+[[bin]]
+name = "clip"
+path = "src/clip.rs"

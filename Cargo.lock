@@ -30,6 +30,16 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "e3c69b077ad434294d3ce9f1f6143a2a4b89a8a2d54ef813d85003a4fd1137fd"
 
 [[package]]
+name = "cclip"
+version = "0.1.0"
+dependencies = [
+ "atty",
+ "copypasta",
+ "copypasta-ext",
+ "which",
+]
+
+[[package]]
 name = "cfg-if"
 version = "0.1.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -40,16 +50,6 @@ name = "cfg-if"
 version = "1.0.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "baf1de4339761588bc0619e3cbc0120ee582ebb74b53b4efbf79117bd2da40fd"
-
-[[package]]
-name = "clip"
-version = "0.1.0"
-dependencies = [
- "atty",
- "copypasta",
- "copypasta-ext",
- "which",
-]
 
 [[package]]
 name = "clipboard-win"

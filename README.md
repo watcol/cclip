@@ -1,14 +1,14 @@
-# clip
-[![Crates.io](https://img.shields.io/crates/v/clip)](https://crates.io/crates/clip)
-[![Downloads](https://img.shields.io/crates/d/clip)](https://crates.io/crates/clip)
-[![Downloads (latest)](https://img.shields.io/crates/dv/clip)](https://crates.io/crates/clip)
-[![License](https://img.shields.io/crates/l/clip)](https://github.com/watcol/clip/blob/main/LICENSE)
+# Cross Clip
+[![Crates.io](https://img.shields.io/crates/v/cclip)](https://crates.io/crates/cclip)
+[![Downloads](https://img.shields.io/crates/d/cclip)](https://crates.io/crates/cclip)
+[![Downloads (latest)](https://img.shields.io/crates/dv/cclip)](https://crates.io/crates/cclip)
+[![License](https://img.shields.io/crates/l/cclip)](https://github.com/watcol/clip/blob/main/LICENSE)
 
 A simple, cross-platform CLI clipboard tool.
 
 ## Installation
 ```shell
-$ cargo install clip
+$ cargo install cclip
 ```
 (Requires `cargo`)
 
@@ -37,4 +37,4 @@ $ some commands... | clip
 - ![watcol](https://raw.githubusercontent.com/watcol/icons/main/32/normal.png) watcol
 
 ## License
-clip is licensed under the MIT license. See [LICENSE](https://github.com/watcol/clip/blob/main/LICENSE) for details.
+Cross Clip is licensed under the MIT license. See [LICENSE](https://github.com/watcol/clip/blob/main/LICENSE) for details.
