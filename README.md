@@ -1,4 +1,5 @@
 # Cross Clip
+![status](https://img.shields.io/badge/status-Active-brightgreen)
 [![Crates.io](https://img.shields.io/crates/v/cclip)](https://crates.io/crates/cclip)
 [![Downloads](https://img.shields.io/crates/d/cclip)](https://crates.io/crates/cclip)
 [![Downloads (latest)](https://img.shields.io/crates/dv/cclip)](https://crates.io/crates/cclip)
