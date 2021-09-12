@@ -24,4 +24,4 @@ which = "4.0"
 
 [[bin]]
 name = "clip"
-path = "src/clip.rs"
+path = "src/main.rs"
